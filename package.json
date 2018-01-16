@@ -1,0 +1,25 @@
+{
+  "name": "dozi",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dozi": "./bin/dozi.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dooozi/dozi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dooozi/dozi/issues"
+  },
+  "homepage": "https://github.com/dooozi/dozi#readme",
+  "dependencies": {
+    "commander": "^2.13.0"
+  }
+}
